@@ -1,5 +1,7 @@
 ### Olá! 👋
 
+Divisão de Modelagem Numérica do Sistema Terrestre (DIMNT) da Coordenação-Geral de Ciências da Terra (CGCT) do INPE.
+
 Acesse a wiki da CGCT-CPTEC-DIMNT: https://github.com/CGCT-CPTEC-DIMNT/cgct-cptec-dimnt/wiki
 
 <!--
