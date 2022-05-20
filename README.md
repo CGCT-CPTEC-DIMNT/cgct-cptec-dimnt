@@ -1,5 +1,7 @@
 ### Olá! 👋
 
+Acesse a wiki da CGCT-CPTEC-DIMNT: https://github.com/CGCT-CPTEC-DIMNT/cgct-cptec-dimnt/wiki
+
 <!--
 **CGCT-CPTEC-DIMNT/cgct-cptec-dimnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
